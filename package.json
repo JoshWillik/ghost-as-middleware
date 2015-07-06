@@ -1,0 +1,26 @@
+{
+  "name": "ghost-as-middleware",
+  "version": "1.0.0",
+  "description": "Ghost as middleware proof of concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshWillik/ghost-as-middleware.git"
+  },
+  "keywords": [
+    "ghost",
+    "middleware"
+  ],
+  "author": "Josh Vanderwillik <joshwillik@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshWillik/ghost-as-middleware/issues"
+  },
+  "homepage": "https://github.com/JoshWillik/ghost-as-middleware#readme",
+  "dependencies": {
+    "ghost": "^0.6.4"
+  }
+}
